@@ -19,7 +19,7 @@
     height: 100vh;
 }
 div > .left {
-    background-image: url('/pexels-jonathan-borba-14269507.jpg');
+    background-image: url('./pexels-jonathan-borba-14269507.jpg');
     background-size: cover;
     object-fit: contain;
     background-repeat: no-repeat;
